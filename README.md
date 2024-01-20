@@ -18,7 +18,7 @@ Conosimientos basicos de uso de computadora.
 
 1.Contar con el programa de Node-red correctamente instalado.
 
-2. Entrar a **http://localhost:1880**  para  comenzar a armar el canvas.
+2. Entrar a **http://localhost:1880**  para  comenzar a armar el canvas. ![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n1.png)
 
 3. Crear grupos y editar las graficas.
    
