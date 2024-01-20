@@ -20,7 +20,7 @@ Conosimientos basicos de uso de computadora.
 
 2. Entrar a **http://localhost:1880**  para  comenzar a armar el canvas. ![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n1.png)
 
-3. Crear grupos y editar las graficas.
+3. Crear grupos y editar las graficas.![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n2.png)
    
 4. Cargar el archivo y visualisar lo de forma grafica.
    
