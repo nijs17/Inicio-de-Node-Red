@@ -22,7 +22,7 @@ Conosimientos basicos de uso de computadora.
 
 3. Crear grupos y editar las graficas.![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n2.png) ![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n3.png)
    
-4. Cargar el archivo y visualisar lo de forma grafica.
+4. Cargar el archivo y visualisar lo de forma grafica. ![](https://github.com/nijs17/Inicio-de-Node-Red/blob/main/n4.png)
    
 ## RESUSLTADOS
 Una vez finalizada la practica podremos observar el canvas finalizado en una ventana emergente
